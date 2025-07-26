@@ -56,7 +56,9 @@ This case study demonstrates how unsupervised learning techniques can be used to
 
 ---
 
-License
-This project is licensed under the MIT License.
-You are free to use, modify, and distribute this code with proper attribution.
-See the LICENSE file for full details.
+## License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this code with proper attribution.  
+See the `LICENSE` file for full details.
+
